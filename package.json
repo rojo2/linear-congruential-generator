@@ -1,9 +1,9 @@
 {
   "name": "@rojo2/linear-congruential-generator",
   "version": "1.0.0",
-  "main": "dist/linear-congruential-generator.js",
-  "module": "dist/linear-congruential-generator.js",
-  "browser": "dist/linear-congruential-generator.js",
+  "main": "dist/linear-congruential-generator.cjs.js",
+  "module": "dist/linear-congruential-generator.esm.js",
+  "browser": "dist/linear-congruential-generator.umd.js",
   "directories": {
     "test": "test"
   },
